@@ -1,0 +1,4 @@
+Create a book class, properties----color, number of pages, category(Romance gospel, e.t.c), author.
+Create a shelf, properties ---- height, number of layers, it must not be empty(contain books).
+Functionality of shelf: shelf must be able to return a particular book by author,
+Print all books
